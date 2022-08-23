@@ -1,0 +1,1 @@
+An interesting project for controlling video games using hand gestures. This is done using the gyroscope to detect hand orientation and plenty of python code, especially the pyautogui and pyfirmata to send data from Arduino to pc.
